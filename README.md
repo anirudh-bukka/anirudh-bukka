@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I+am+Anirudh;From+Hyderabad,+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I+am+Anirudh;From+Hyderabad,+India.)](https://git.io/typing-svg)
 
 - 👀 I’m interested in:
      Web Technologies
