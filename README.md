@@ -30,7 +30,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/AnirudhBukka"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anirudh-bukka-23414a197/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 <a href="https://discordapp.com/users/shaquille.oat'meal#0741"><img alt="Discord" height="40" width="40" src="https://img.icons8.com/color-glass/48/000000/discord-logo.png"/></a>
+<a href="https://medium.com/@anirudh.bukka"><img height="40" width="40" alt="medium.com" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401405.png?token=exp=1643025995~hmac=29c2d6a126e56ed5b7bc0c68429b83be"/><a>
 
-<b style="x-large">Inspired by big dreams and dank memes.</b>
+<b style="x-large">Inspired by big dreams and dank memes,</b>
+
+<i>Anirudh</i>
 
 </p>  
