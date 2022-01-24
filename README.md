@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <br>
   <a href="https://github.com/warunicorn19/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=debo19&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=anirudh-bukka&theme=react-dark&hide_border=true">
   </a>
 </p>
 <hr>
