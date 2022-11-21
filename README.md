@@ -6,7 +6,7 @@
      OPEN SOURCE
      
 - 🌱 I’m currently pursuing Bachelor's of Technology in Information Technology, and personally focussing on programming, Data Science and Open Source.
-- 🍻 I’m looking to collaborate on Open source projects in web development and data analytics related projects.
+- 🍻 I’m looking to collaborate on Open source projects in web development and data science related projects.
 - ✉️ You can contact me by emailing me at anirudh.bukka@gmail.com 
 
 <!---
