@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in:
      Web Technologies |
-     Data Science and related concepts/technologies |
+     Data Science |
      OPEN SOURCE
      
 - 🌱 I’m currently pursuing Bachelor's of Technology in Information Technology, and personally focussing on programming, Data Science and Open Source.
