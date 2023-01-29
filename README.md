@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I+am+Anirudh;From+Hyderabad,+India.)](https://git.io/typing-svg)
 
 - 👀 I’m interested in:
-     Web Technologies |
+     Web Development |
      Data Science |
      OPEN SOURCE
      
-- 🌱 I’m currently pursuing Bachelor's of Technology in Information Technology, and personally focussing on programming, Data Science and Open Source.
-- 🍻 I’m looking to collaborate on Open source projects in web development and data science related projects.
-- ✉️ You can contact me by emailing me at anirudh.bukka@gmail.com 
+- 🌱 I’m currently pursuing Bachelor's of Technology in Information Technology, and focussing on programming, Web Development, Data Science and Open Source.
+- 🍻 I’m looking to collaborate for projects in web development and data science.
+- ✉️ You can contact me by emailing me at anirudh4dev@gmail.com 
 
 <!---
 anirudh-bukka/anirudh-bukka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
