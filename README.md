@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I+am+Anirudh;From+Hyderabad,+India.)](https://git.io/typing-svg)
 
-- 👀 I’m interested in:
-     Web Development |
-     Data Science |
+- 👀 Web Development - MERN and Java Spring Boot |
+     Data Science | Java |
      OPEN SOURCE
      
 - 🌱 I’m currently pursuing Bachelor's of Technology in Information Technology, and focussing on programming, Web Development, Data Science and Open Source.
