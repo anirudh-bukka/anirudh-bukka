@@ -5,7 +5,6 @@
      OPEN SOURCE
      
 - 🌱 I just graduated Bachelor's of Technology in Information Technology, and focussing on programming, Web Development, Data Science and Open Source ¯⁠\⁠⁠(⁠ ͡⁠°⁠ ͜⁠ʖ⁠ ͡⁠°⁠)⁠⁠/⁠¯.
-- 🍻 I’m looking to collaborate for projects in web development and data science.
 - ✉️ You can contact me by emailing me at anirudh4dev@gmail.com 
 
 <!---
