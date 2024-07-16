@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I+am+Anirudh;From+Hyderabad,+India.)](https://git.io/typing-svg)
 
-- 👀 Web Development - MERN and Java Spring Boot |
-     Data Science | Java |
-     OPEN SOURCE
+- 👀 Web Development in MERN |
+     Machine Learning | Java |
+     Open Source contributions
      
 - 🌱 I just graduated Bachelor's of Technology in Information Technology, and focussing on programming, Web Development, Data Science and Open Source ¯⁠\⁠⁠(⁠ ͡⁠°⁠ ͜⁠ʖ⁠ ͡⁠°⁠)⁠⁠/⁠¯.
 - ✉️ You can contact me by emailing me at anirudh4dev@gmail.com 
