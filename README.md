@@ -4,8 +4,8 @@
      Machine Learning | Java |
      Open Source contributions
      
-- 🌱 I just graduated Bachelor's of Technology in Information Technology, and focussing on programming, Web Development, Data Science and Open Source ¯⁠\⁠⁠(⁠ ͡⁠°⁠ ͜⁠ʖ⁠ ͡⁠°⁠)⁠⁠/⁠¯.
-- ✉️ You can contact me by emailing me at anirudh4dev@gmail.com 
+- 🌱 I just graduated Bachelor's of Technology in Information Technology, and focussing on Web Development ¯⁠\⁠⁠(⁠ ͡⁠°⁠ ͜⁠ʖ⁠ ͡⁠°⁠)⁠⁠/⁠¯.
+- ✉️ You can contact me by emailing at anirudh4dev@gmail.com 
 
 <!---
 anirudh-bukka/anirudh-bukka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
