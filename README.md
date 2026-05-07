@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I+am+Anirudh;From+Hyderabad,+India.)](https://git.io/typing-svg)
 
-- 👀 Web Development in MERN |
-     Machine Learning | Java |
-     Open Source contributions
+- I build Gen AI Agents and MCP Servers | LangGraph | LangChain | Java | Python | Machine Learning 
      
-- 🌱 I just graduated Bachelor's of Technology in Information Technology, and focussing on Web Development ¯⁠\⁠⁠(⁠ ͡⁠°⁠ ͜⁠ʖ⁠ ͡⁠°⁠)⁠⁠/⁠¯.
-- ✉️ You can contact me by emailing at anirudh4dev@gmail.com 
+- I am a Software Engineer at Oracle (IC1) working since August 2024 straight out of bachelor's
 
 <!---
 anirudh-bukka/anirudh-bukka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
