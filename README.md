@@ -18,17 +18,45 @@ You can click the Preview link to take a look at your changes.
     <img src="https://activity-graph.herokuapp.com/graph?username=anirudh-bukka&theme=react-dark&hide_border=true">
   </a>
 </p>
-<hr>
- <h3 align = "center">► Contact Me:</h3>
-<p align='middle'>
-<a href="https://hub.docker.com/u/anirudhbukka"><img height="40" width="40" src="" alt="Docker Registry"/></a>
-<a href="https://instagram.com/anidude09"><img height="43" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AnirudhBukka"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anirudh-bukka-23414a197/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
-<a href="https://discordapp.com/users/shaquille.oat'meal#0741"><img alt="Discord" height="40" width="40" src="https://img.icons8.com/color-glass/48/000000/discord-logo.png"/></a>
-<a href="https://medium.com/@anirudh.bukka"><img height="40" width="40" alt="medium.com" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401405.png?token=exp=1643025995~hmac=29c2d6a126e56ed5b7bc0c68429b83be"/><a>
 
-<b style="x-large">Inspired by big dreams and dank memes,</b>
+<hr>
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirudh-bukka-23414a197/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://twitter.com/AnirudhBukka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" alt="Twitter/X"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/anidude09" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://discordapp.com/users/shaquille.oat'meal#0741" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://hub.docker.com/u/anirudhbukka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://medium.com/@anirudh.bukka" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/white" height="42" alt="Medium"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Inspired by big dreams and dank memes.</i>
+</p>
 
 <i>Anirudh</i>
 
