@@ -29,11 +29,6 @@ You can click the Preview link to take a look at your changes.
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://twitter.com/AnirudhBukka" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="42" alt="Twitter/X"/>
-  </a>
-  &nbsp;&nbsp;
-
   <a href="https://instagram.com/anidude09" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram"/>
   </a>
